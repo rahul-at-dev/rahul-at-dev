@@ -103,7 +103,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/rahul-at-dev/rahul-at-dev/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
-<sub>To enable this animated graph, add the <code>Platane/snk</code> GitHub Action to your profile repo — it auto-generates the SVG above on a schedule.</sub>
+<!-- <sub>To enable this animated graph, add the <code>Platane/snk</code> GitHub Action to your profile repo — it auto-generates the SVG above on a schedule.</sub> -->
 </div>
 
 <br/>
